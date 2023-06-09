@@ -1,3 +1,3 @@
 # sumobot
 
-just sharing some research
+This is not the full source code, it's just a teaser :^)
